@@ -7,3 +7,6 @@ Busco minha primeira oportunidade profissional na área de desenvolvimento. Busc
 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+[Visite meu LinKedIn](https://www.linkedin.com/in/nathally-pena-de-sales-50b62334a/?trk=opento_sprofile_goalscard)
